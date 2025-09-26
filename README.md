@@ -1,6 +1,13 @@
 # Hi there, I’m Sruti 👋
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile! 
+- 📌 Project Manager with 4+ years in E-Commerce & IT projects.  
+- 🔍 Transitioning into IT Audit & GRC, with ISO 27001 certification in progress (Oct 2025).  
+- ⚡ Skilled in stakeholder communication, risk management, and process optimization.  
+- 🛠 Tools: Jira, Trello, MS Project, Confluence, ERP Systems, GitHub.  
+- 📚 Currently learning: IT Audit frameworks (ISO 27001, NIST, COBIT) & Agile project management.  
+- 🤝 Open to collaborations in project coordination, IT governance, and compliance.  
+
 I am an aspiring **Governance, Risk & Compliance (GRC)** professional with a focus on cybersecurity frameworks, audits, and compliance management.
 
 ---
