@@ -1,55 +1,49 @@
-# Hi there, I’m Sruti 👋
+# Hi, I'm Sruti Susan Shaji 👋
 
-Welcome to my GitHub profile! 
-- 📌 Project Manager with 4+ years in E-Commerce & IT projects.  
-- 🔍 Transitioning into IT Audit & GRC, with ISO 27001 certification in progress (Oct 2025).  
-- ⚡ Skilled in stakeholder communication, risk management, and process optimization.  
-- 🛠 Tools: Jira, Trello, MS Project, Confluence, ERP Systems, GitHub.  
-- 📚 Currently learning: IT Audit frameworks (ISO 27001, NIST, COBIT) & Agile project management.  
-- 🤝 Open to collaborations in project coordination, IT governance, and compliance.  
+**ISO/IEC 27001:2022 Certified Lead Auditor | GRC Professional | Information Security**
 
-I am an aspiring **Governance, Risk & Compliance (GRC)** professional with a focus on cybersecurity frameworks, audits, and compliance management.
+📍 Based in UAE | Open to Remote Opportunities
+🔗 [LinkedIn](https://www.linkedin.com/in/sruti-susan-shaji-075427166/)
 
 ---
 
-## 🚀 What I’m Working On
+## About Me
 
-- Developing **Information Security Policies** aligned with ISO 27001  
-- Creating practical **Risk Assessment Templates** and **Audit Checklists**  
-- Documenting **Vendor Risk Assessments** and **Compliance Reports**  
-- Learning and applying frameworks like **NIST**, **COBIT**, and **ISO 27001**  
-- Building skills in **cybersecurity governance** and **IT audit processes**
+I am an Information Security GRC professional transitioning from a 4+ year background in eCommerce systems and software engineering.
 
----
+I hold an **ISO/IEC 27001:2022 Lead Auditor certification** (Exemplar Global, Nov 2025) and am currently pursuing the **ISC2 Certified in Cybersecurity (CC).**
 
-## 📚 My Learning Journey
-
-I’m currently upskilling through online courses and certifications such as:  
-- CISA (Certified Information Systems Auditor) - in progress  
-- ISO 27001 Lead Implementer  
-- Basics of NIST Cybersecurity Framework
-
----
-<!--
-## 📂 Featured Projects
-
-- [ISO 27001 Information Security Policy](link-to-repo) — Sample policy document  
-- [Risk Assessment Template](link-to-repo) — Excel/Google Sheets format  
-- [Internal Audit Checklist](link-to-repo) — Example checklist for compliance audits
-
----
--->
-## Background
-
-Prior to focusing on GRC, I worked as a **Backend Developer** and **eCommerce Website Administrator**, where I gained valuable experience in system management, troubleshooting, and maintaining secure workflows. 
-These roles enhanced my attention to detail and helped me develop a strong foundation in IT operations and process compliance.
+My technical background gives me a practical understanding of how systems, access controls, and data flows work — which I bring directly into risk assessment, compliance documentation, and governance work.
 
 ---
 
-## 📫 How to Reach Me
+## 🔐 GRC Focus Areas
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sruti-susan-shaji-075427166/) or send me a message here on GitHub!
+- ISO/IEC 27001:2022 Framework & Controls
+- Risk Assessment & Risk Registers
+- Access Control & Identity Management
+- Third-Party & Vendor Risk Management
+- Security Policy Documentation
+- Audit Principles & Gap Analysis
+- Regulatory Compliance
 
 ---
 
-Thanks for visiting — let’s secure the digital world, one policy at a time! 🔐
+## 📁 Repositories
+
+| Repository | Description |
+|---|---|
+| [grc-it-audit-learning](https://github.com/SrutiSusan/grc-it-audit-learning) | ISO 27001 notes, gap assessment templates, audit checklists |
+| [cybersecurity-fundamentals](https://github.com/SrutiSusan/cybersecurity-fundamentals) | Core cybersecurity concepts supporting GRC practice |
+| [certification-journey](https://github.com/SrutiSusan/certification-journey) | ISO 27001 LA and ISC2 CC study notes and resources |
+| [process-improvement-examples](https://github.com/SrutiSusan/process-improvement-examples) | Documented process improvements and workflow optimization |
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sruti-susan-shaji-075427166/) — always open to connecting with GRC professionals, recruiters, and organisations in the cybersecurity space.
+
+---
+
+*"Security is not a product, but a process."* 🔐
